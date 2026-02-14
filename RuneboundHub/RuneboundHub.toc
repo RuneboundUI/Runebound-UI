@@ -1,0 +1,9 @@
+## Title: RuneboundHub
+## Notes: Modular hub for "runes" (modules) — Ace3-based
+## Author: You
+## Interface: 100105
+## Dependencies: Ace3
+
+RuneboundHub.lua
+HubAPI.lua
+README.md
